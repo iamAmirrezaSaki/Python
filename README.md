@@ -29,7 +29,7 @@ Code documentation is aligned correctly when the files are viewed in [Notepad++]
 Jarvis is used as a google assistant.
 master
 
-- [batch_file_rename.py](https://github.com/geekcomputers/Python/blob/master/batch_file_rename.py) - This batch renames a group of files in a given directory, once you pass the current and the new extensions.
+ - [batch_file_rename.py](https://github.com/geekcomputers/Python/blob/master/batch_file_rename.py) - This batch renames a group of files in a given directory, once you pass the current and the new extensions.
 
 - [create_dir_if_not_there.py](https://github.com/geekcomputers/Python/blob/master/create_dir_if_not_there.py) - Checks to see if a directory exists in the users home directory. If a directory does not exist, then one will be created.
 
